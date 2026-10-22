@@ -4,6 +4,6 @@ An open-source repository featuring Minecraft Create mod setups. Contains step-b
 * [Create Mod Official](https://modrinth.com/mod/create)
 * [Create Mod Wiki](https://create.mechanicalraft.com/)
 * [Create Mod Farms](https://youtube.com/playlist?list=PLTsAtnpIE6CS0sSn4r_h58oe2sqlsQTDI&si=8qOPWO36-1PUHDBE)
-![Systém vlaků](./obrázky/obrazky.md/maxresdefault.jpg)
+![Steam Engin](./obrázky/maxresdefault.jpg)
 <img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/07b450e2-19c0-46c7-a9c1-0800f40fb793" />
 
