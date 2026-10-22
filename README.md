@@ -6,5 +6,5 @@ An open-source repository featuring Minecraft Create mod setups. Contains step-b
 * [Create Mod Farms](https://youtube.com/playlist?list=PLTsAtnpIE6CS0sSn4r_h58oe2sqlsQTDI&si=8qOPWO36-1PUHDBE)
 
 ![Steam Engin](./obrázky/maxresdefault.jpg)
-<img width="1080" height="520" alt="maxresdefault" src="https://github.com/user-attachments/assets/07b450e2-19c0-46c7-a9c1-0800f40fb793" />
+<img width="1000" height="520" alt="maxresdefault" src="https://github.com/user-attachments/assets/07b450e2-19c0-46c7-a9c1-0800f40fb793" />
 
