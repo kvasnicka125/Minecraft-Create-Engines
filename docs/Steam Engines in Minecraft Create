@@ -1,0 +1,16 @@
+In the Create mod, Steam Engines (or Steam Boilers) are the ultimate power source.
+They convert heat and water into massive amounts of rotational power (Stress Capacity)
+to run your factories and contraptions.
+
+How It Works Step-by-Step
+1. Heating the Boiler:
+You place heat sources underneath the Copper Fluid Tank. Higher heat levels (like fueled Blaze Burners) generate significantly more power than passive heat (like Campfires).
+
+2. Pumping Water:
+Water must be actively pumped into the boiler. If the water supply drops or runs out, the boiler's capacity decreases or stops generating power entirely.
+
+3. Generating Steam:
+When both heat and water are sufficient, the boiler generates steam inside the tank.
+
+4. Producing Rotational Power:
+The Attached Steam Engines convert that pressurized steam into mechanical motion, spinning shafts at high speed and providing huge amounts of Stress Capacity for all your machinery.
